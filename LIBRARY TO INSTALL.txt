@@ -1,0 +1,7 @@
+pip install opencv-python
+pip install opencv-contrib-python --user
+pip install matplotlib
+pip install imutils
+pip install wheels
+C:\Users\sagar\AppData\Local\Programs\Python\Python310\python.exe -m pip install --upgrade pip (please type python version which you have install)
+pip install scikit-image
